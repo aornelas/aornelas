@@ -25,7 +25,7 @@ What the agentic workflows have done at Half Byte:
 - **Meta Reality Labs**: funded and guided the developers behind **10 Quest Pro launch apps** and **PianoVision**, hero of the Quest 3 launch ad. Ran the Lifestyle Accelerator (**400+ pitches → 9 funded startups**). Built AI tools that cut funding proposals from days to minutes
 - **Twitter / MoPub**: took over the Unity SDK, [open-sourced it](https://github.com/aornelas/mopub-unity-sdk/commit/fe68b2a15db0263e9825a60dea9d4e8b42396600) on day one, and grew it from **~3% to ⅓ of MoPub's revenue** with a team of two
 - **Twitter Product Safety**: tech lead behind **Mute** and new reporting tools
-- **Google**: testing infrastructure for AngularJS apps, Docs and Google+
+- **Google**: testing infrastructure for AngularJS apps, and Google Docs, frontend development for Google Feedback.
 
 ---
 
