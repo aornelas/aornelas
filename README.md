@@ -10,6 +10,7 @@ Today I'm Head of Engineering at **Half Byte**, where I design and build the age
 
 | Project | What it is |
 |---|---|
+| [**sunwalks**](https://github.com/aornelas/sunwalks) | A sunrise photo calendar that plans where to walk tomorrow. Built in five days with Claude Design and Claude Code; Adding Claude API and MCP features next |
 | [**claude-skills**](https://github.com/aornelas/claude-skills) | My open-source skills for Claude Code and Claude.ai. Includes **learn-this**, which turns a YouTube link into a visual HTML report with a mechanism diagram and a paste-ready prompt. Setup is one step: tell Claude to install the rest |
 | [**build-with-claude**](https://github.com/aornelas/build-with-claude) | My fork of the Build with Claude Cardputer kit from an Anthropic event. Fixed unreadable UI and extended it so you can read output and approve or deny permissions for **Claude Chat as well as Claude Code** |
 
@@ -22,7 +23,7 @@ What the agentic workflows have done at Half Byte:
 
 ### 🛠️ Developer platforms I've helped grow
 
-- **Meta Reality Labs**: funded and guided the developers behind **10 Quest Pro launch apps** and **PianoVision**, hero of the Quest 3 launch ad. Ran the Lifestyle Accelerator (**400+ pitches → 9 funded startups**). Built AI tools that cut funding proposals from days to minutes
+- **Meta Reality Labs**: funded and guided the developers behind **10 Quest Pro launch apps** and **PianoVision**, hero of the Quest 3 launch ad. Ran the Lifestyle Accelerator (**hundreds of pitches → a handful of funded startups**). Built AI tools that cut funding proposals from days to minutes
 - **Twitter / MoPub**: took over the Unity SDK, [open-sourced it](https://github.com/aornelas/mopub-unity-sdk/commit/fe68b2a15db0263e9825a60dea9d4e8b42396600) on day one, and grew it from **~3% to ⅓ of MoPub's revenue** with a team of two
 - **Twitter Product Safety**: tech lead behind **Mute** and new reporting tools
 - **Google**: testing infrastructure for AngularJS apps, and Google Docs, frontend development for Google Feedback.
