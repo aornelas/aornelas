@@ -10,7 +10,7 @@ Today I'm Head of Engineering at **Half Byte**, where I design and build the age
 
 | Project | What it is |
 |---|---|
-| [**sunwalks**](https://github.com/aornelas/sunwalks) | A sunrise photo calendar that plans where to walk tomorrow. Built in five days with Claude Design and Claude Code; Adding Claude API and MCP features next |
+| [**sunwalks**](https://github.com/aornelas/sunwalks) | A sunrise photo calendar that plans where to walk tomorrow. Built in five days with Claude Design and Claude Code; Added intelligence features via Claude API, MCP, and a Telegram bot |
 | [**claude-skills**](https://github.com/aornelas/claude-skills) | My open-source skills for Claude Code and Claude.ai. Includes **learn-this**, which turns a YouTube link into a visual HTML report with a mechanism diagram and a paste-ready prompt. Setup is one step: tell Claude to install the rest |
 | [**build-with-claude**](https://github.com/aornelas/build-with-claude) | My fork of the Build with Claude Cardputer kit from an Anthropic event. Fixed unreadable UI and extended it so you can read output and approve or deny permissions for **Claude Chat as well as Claude Code** |
 
